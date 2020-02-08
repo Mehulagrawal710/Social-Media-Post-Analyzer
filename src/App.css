@@ -1,0 +1,14 @@
+#search-box {
+  margin-top: 300px;
+}
+
+@media (min-width: 500px){
+  #search-button{ 
+    margin-top: 0px;   
+  }
+}
+@media (max-width: 499px) {
+  #search-button{
+    margin-top: 10px;
+  }
+}
